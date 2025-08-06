@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Jorge
+# 👩🏻‍💻 Jorge Antonio
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Jorge Antonio, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac do Recife. Sou apaixonado por tecnologia e e quero usar ela para um bem maior. "
+Me chamo Jorge Figueredo, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac do Recife. Sou apaixonado por tecnologia e e quero usar ela para um bem maior. "
 
 
 ### 🤖 Linguagens e Tecnologias
