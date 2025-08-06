@@ -35,8 +35,14 @@ Me chamo Jorge Figueredo, tenho 19 anos e sou natural de Pernambuco. Atualmente,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<br>
+
+<h3> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h3>
+<a href = https://www.linkedin.com/in/jorge-antonio-282874303/ <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;&nbsp;&nbsp;
+<a href = https://github.com/Jorgefigueredoo> <img width = '30' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/_jorgeefigueredoo.dev/?igsh=bW93MWdqMTZhcmR6#" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"alt="_._.adam._" width="30" /></a>&nbsp;&nbsp;&nbsp;
+
+<br>
 
 ### 📊 Estatísticas
 
