@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Jorge Figueredo, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac do Recife. Sou apaixonado por tecnologia e e quero usar ela para um bem maior. "
+Sou Jorge Antonio de Lima Figueredo, estudante de Análise e Desenvolvimento de Sistemas pelo Senac e apaixonado por tecnologia desde cedo. Tenho focado minha formação e prática no desenvolvimento Back-End, com conhecimentos sólidos em linguagens como Python, Java, PHP e Node.js.
+
+Durante minha jornada, tive a oportunidade de estagiar na 2D Telecom, onde pude aplicar na prática conceitos de programação, suporte técnico e resolução de problemas reais, o que fortaleceu ainda mais minha paixão por essa área.
+
+Busco constantemente evoluir como desenvolvedor, estudando novas tecnologias, boas práticas de código e metodologias ágeis. Acredito no poder da colaboração, do código aberto e do aprendizado contínuo. Aqui no GitHub compartilho meus projetos, estudos e ideias, sempre com o objetivo de crescer e contribuir com a comunidade. 
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -55,14 +59,11 @@ Me chamo Jorge Figueredo, tenho 19 anos e sou natural de Pernambuco. Atualmente,
     src="https://github-readme-stats.vercel.app/api?username=Jorgefigueredoo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefigueredoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefigueredoo&theme=tokyonight) 
   />
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefigueredoo&theme=tokyonight) 
-![Github Stars](https://github-readme-stats.vercel.app/api?username=Jorgefigueredoo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
