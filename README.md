@@ -9,12 +9,7 @@
 </p>
 
 <div size='20px' align="center">
-  Olá! Me chamo Jorge Antonio de Lima Figueredo, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas pelo Senac. Sou apaixonado por tecnologia e desenvolvimento Back-End, com experiência em linguagens como Python, Java, PHP e Node.js.
-  
-  Fiz estágio na 2D Telecom, onde pude aplicar na prática conhecimentos técnicos, aprendendo sobre infraestrutura, suporte, e desenvolvimento de soluções reais para clientes. Atualmente, continuo evoluindo minhas habilidades técnicas e trabalhando em projetos que resolvam problemas do mundo real. Compartilho aqui no GitHub meus estudos e experiências como desenvolvedor. 🚀
-
-  <br><br>
-  Obrigado por visitar meu perfil!
+ Hello! My name is Jorge Antonio de Lima Figueredo, I'm 19 years old, and I'm a Systems Analysis and Development student at Senac. I'm passionate about technology and back-end development, with experience in languages ​​like Python, Java, PHP, and Node.js. I interned at 2D Telecom, where I was able to apply my technical knowledge, learning about infrastructure, support, and developing real-world solutions for clients. Currently, I continue to develop my technical skills and work on projects that solve real-world problems. I share my studies and experiences as a developer here on GitHub. 🚀
 </div>
 
 ---
