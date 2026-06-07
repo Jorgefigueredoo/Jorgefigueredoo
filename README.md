@@ -9,13 +9,11 @@
 </p>
 
 <div size='20px' align="center">
- Sou desenvolvedor Full Stack com foco em Java + Spring Boot no back-end e React no front-end, criando APIs REST seguras, integrações e interfaces modernas. Tenho experiência com MySQL, autenticação JWT e Login com Google (OAuth2), além de boas práticas com Git/GitHub.
-
-Participei do Campus Mobile 2026, onde evoluí soluções em um ambiente de mentorias e inovação, fortalecendo minha visão de produto e desenvolvimento. Também atuei como estagiário de Suporte Técnico na 2D Telecom, com atendimento ao cliente, diagnóstico de redes e resolução de problemas, desenvolvendo comunicação e agilidade na solução de incidentes.
-
-Projetos em destaque: Beacon Navigator (gestão de beacons/locais com login Google e rotas protegidas), Conecta Hub (rastreabilidade de sementes para agricultores), além de sistemas de agendamento para barbearias e landing pages personalizadas para negócios.
-
-Busco oportunidades como Estagiário ou Desenvolvedor Júnior para contribuir em projetos web e seguir evoluindo tecnicamente.
+ Desenvolvedor Full Stack com foco em Java + Spring Boot no back-end e React no front-end, desenvolvendo APIs REST seguras, integrações robustas e interfaces modernas.
+Tenho experiência com MySQL, autenticação JWT, Login com Google (OAuth2) e boas práticas com Git/GitHub.
+Participei do Campus Mobile 2026, onde evolui soluções em um ambiente de mentorias e inovação, fortalecendo minha visão de produto e desenvolvimento ágil.
+Atuei como Estagiário de Suporte Técnico na 2D Telecom, com atendimento ao cliente, diagnóstico de redes e resolução de incidentes — desenvolvendo comunicação técnica e agilidade na solução de problemas.
+Atualmente faço parte da @Prefeitura do Recife como Analista de Inovação na Secretaria de Planejamento e Gestão (SEPLAN), contribuindo com tecnologia e inovação na gestão pública da cidade.
 </div>
 
 ---
