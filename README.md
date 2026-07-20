@@ -13,7 +13,7 @@
 Tenho experiência com MySQL, autenticação JWT, Login com Google (OAuth2) e boas práticas com Git/GitHub.
 Participei do Campus Mobile 2026, onde evolui soluções em um ambiente de mentorias e inovação, fortalecendo minha visão de produto e desenvolvimento ágil.
 Atuei como Estagiário de Suporte Técnico na 2D Telecom, com atendimento ao cliente, diagnóstico de redes e resolução de incidentes — desenvolvendo comunicação técnica e agilidade na solução de problemas.
-Atualmente faço parte da Prefeitura do Recife como Analista de Inovação na Secretaria de Planejamento e Gestão (SEPLAN), contribuindo com tecnologia e inovação na gestão pública da cidade.
+Atualmente faço parte da Prefeitura do Recife como Analista de Inovação na Secretaria Executiva de Planejamento (SEPLAN), contribuindo com tecnologia e inovação na gestão pública da cidade.
 </div>
 
 ---
