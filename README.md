@@ -57,7 +57,7 @@ public class JorgeFigueredo {
 <table>
   <tr>
     <td width="60" align="center">🏛️</td>
-    <td><b>Analista de Inovação</b> — Prefeitura do Recife (SEPLAN)<br/><sub>Tecnologia e inovação aplicadas à gestão pública da cidade.</sub></td>
+    <td><b>Analista de Inovação e Desenvolvimento</b> — Prefeitura do Recife (SEPLAN)<br/><sub>Tecnologia e inovação aplicadas à gestão pública da cidade.</sub></td>
   </tr>
   <tr>
     <td align="center">🚀</td>
