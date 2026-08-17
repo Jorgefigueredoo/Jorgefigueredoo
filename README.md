@@ -102,19 +102,6 @@ public class JorgeFigueredo {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
 
-## `>` projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/Jorgefigueredoo/NOME-DO-REPO-1">
-    <img width="49%" src="https://github-readme-stats-one-xi-83.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-1&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=c9d1d9" alt="Projeto 1"/>
-  </a>
-  <a href="https://github.com/Jorgefigueredoo/NOME-DO-REPO-2">
-    <img width="49%" src="https://github-readme-stats-one-xi-83.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-2&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=c9d1d9" alt="Projeto 2"/>
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
-
 ## `>` métricas
 
 <p align="center">
