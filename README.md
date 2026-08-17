@@ -1,81 +1,150 @@
+<!--
+═══════════════════════════════════════════════════════════════
+  APÓS HOSPEDAR SUA PRÓPRIA INSTÂNCIA NO VERCEL:
+  Localizar e substituir  github-readme-stats.vercel.app
+  pelo seu domínio, ex:   jorge-stats.vercel.app
+═══════════════════════════════════════════════════════════════
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1F6FEB,100:6DB33F&height=220&section=header&text=Jorge%20Figueredo&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%2B%20Spring%20Boot%20%E2%80%A2%20React&descAlignY=54&descSize=18&animation=fadeIn" alt="Jorge Figueredo - Full Stack Developer"/>
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&width=680&lines=APIs+REST+seguras+com+Java+%2B+Spring+Boot;Interfaces+modernas+e+responsivas+com+React;Analista+de+Inova%C3%A7%C3%A3o+na+Prefeitura+do+Recife;Tecnologia+com+prop%C3%B3sito+p%C3%BAblico" alt="Typing SVG"/>
 </p>
 
-<h1 align="center"> Hello World! < Developers/ > <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=Jorgefigueredoo" alt="Visualizações de perfil" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-antonio-282874303/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/_jorgeefigueredoo.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<div size='20px' align="center">
- Desenvolvedor Full Stack com foco em Java + Spring Boot no back-end e React no front-end, desenvolvendo APIs REST seguras, integrações robustas e interfaces modernas.
-Tenho experiência com MySQL, autenticação JWT, Login com Google (OAuth2) e boas práticas com Git/GitHub.
-Participei do Campus Mobile 2026, onde evolui soluções em um ambiente de mentorias e inovação, fortalecendo minha visão de produto e desenvolvimento ágil.
-Atuei como Estagiário de Suporte Técnico na 2D Telecom, com atendimento ao cliente, diagnóstico de redes e resolução de incidentes — desenvolvendo comunicação técnica e agilidade na solução de problemas.
-Atualmente faço parte da Prefeitura do Recife como Analista de Inovação na Secretaria Executiva de Planejamento (SEPLAN), contribuindo com tecnologia e inovação na gestão pública da cidade.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jorgefigueredoo&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/Jorgefigueredoo?style=flat-square&color=1F6FEB&labelColor=0d1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Recife-PE%20%F0%9F%87%A7%F0%9F%87%B7-1F6FEB?style=flat-square&labelColor=0d1117" alt="Localização"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
+
+## `>` whoami
+
+```java
+@RestController
+public class JorgeFigueredo {
+
+    private final String role     = "Full Stack Developer";
+    private final String company  = "Prefeitura do Recife · SEPLAN";
+    private final String[] focus  = { "Spring Boot", "React", "APIs seguras" };
+
+    @GetMapping("/mission")
+    public String mission() {
+        return "Transformar problemas reais em software que as pessoas usam.";
+    }
+}
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
+
+## `>` trajetória
+
+<table>
+  <tr>
+    <td width="60" align="center">🏛️</td>
+    <td><b>Analista de Inovação</b> — Prefeitura do Recife (SEPLAN)<br/><sub>Tecnologia e inovação aplicadas à gestão pública da cidade.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><b>Campus Mobile 2026</b> — Participante<br/><sub>Evolução de soluções em ambiente de mentoria, visão de produto e desenvolvimento ágil.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🛰️</td>
+    <td><b>Estagiário de Suporte Técnico</b> — 2D Telecom<br/><sub>Diagnóstico de redes, resolução de incidentes e comunicação técnica com o cliente.</sub></td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🎯 O que estou construindo agora</b></summary>
+  <br/>
+
+  - 🔐 Aprofundando **Spring Security**: JWT, refresh tokens e OAuth2 com Google
+  - 🧪 Cobertura de testes com **JUnit 5 + Mockito**
+  - 🐳 **Docker** e pipelines de **CI/CD** com GitHub Actions
+  - 🏗️ Estudando arquitetura de **microsserviços**
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
+
+## `>` stack
+
+<div align="center">
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" alt="Back-end"/>
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="Front-end"/>
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Ferramentas"/>
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
 
-<h3 align="center">🌐 Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h3>
+## `>` projetos em destaque
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jorge-antonio-282874303/" target="_blank">
-    <img width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Jorgefigueredoo" target="_blank">
-    <img width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_jorgeefigueredoo.dev/" target="blank">
-    <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
-  </a>
-</p>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[nome-do-projeto](https://github.com/Jorgefigueredoo/nome-do-projeto)** | API REST com autenticação JWT e login social via Google. | `Java` `Spring Boot` `MySQL` |
+| **[nome-do-projeto-2](https://github.com/Jorgefigueredoo/nome-do-projeto-2)** | Interface web consumindo a API, com rotas protegidas. | `React` `JavaScript` |
+| **[nome-do-projeto-3](https://github.com/Jorgefigueredoo/nome-do-projeto-3)** | O que resolve, em uma linha. | `Docker` `Spring Boot` |
 
----
-
-<h3 align="center">🛠️ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"></h3>
+<!--
+  CARDS VISUAIS DE PROJETO — descomente SÓ depois de:
+  1. Trocar NOME-DO-REPO pelos nomes reais dos repositórios
+  2. Ter hospedado sua própria instância (senão quebra)
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40px"/>&nbsp;&nbsp;
+  <a href="https://github.com/Jorgefigueredoo/NOME-DO-REPO-1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Projeto 1"/>
+  </a>
+  <a href="https://github.com/Jorgefigueredoo/NOME-DO-REPO-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Projeto 2"/>
+  </a>
 </p>
+-->
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
 
-<h3 align="center">📊 Atividade no GitHub</h3>
+## `>` métricas
 
 <p align="center">
-  <table style="width: 100%; border: none;">
-    <tr>
-      <td style="width: 50%; padding: 0; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jorgefigueredoo&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="GitHub Stats"/>
-      </td>
-      <td style="width: 50%; padding: 0; vertical-align: top;">
-        <img src="https://streak-stats.demolab.com?user=Jorgefigueredoo&theme=tokyonight" alt="GitHub Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 50%; padding: 0; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefigueredoo&layout=compact&theme=tokyonight" alt="Top Languages"/>
-      </td>
-      <td style="width: 50%; padding: 0; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jorgefigueredoo&show_icons=true&hide_rank=true&theme=tokyonight&count_private=true&disable_animations=true" alt="Stars"/>
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jorgefigueredoo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=c9d1d9&cache_seconds=86400" alt="Estatísticas do GitHub"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefigueredoo&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=c9d1d9&cache_seconds=86400" alt="Linguagens mais usadas"/>
 </p>
-
----
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jorgefigueredoo&bg_color=0d1117&color=c9d1d9&line=1F6FEB&point=6DB33F&area=true&hide_border=true" alt="Gráfico de atividade"/>
 </p>
+
+<p align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/Jorgefigueredoo/Jorgefigueredoo/output/snake.svg" alt="Cobrinha comendo as contribuições"/>
+</p>
+
+<p align="center">
+  <br/>
+  <b>Aberto a oportunidades e colaborações.</b><br/>
+  <sub>Se algo aqui te interessou, me chama no LinkedIn — respondo rápido. ⚡</sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0A66C2&height=140&section=footer"/>
