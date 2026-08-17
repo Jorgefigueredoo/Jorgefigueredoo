@@ -1,8 +1,9 @@
 <!--
 ═══════════════════════════════════════════════════════════════
-  APÓS HOSPEDAR SUA PRÓPRIA INSTÂNCIA NO VERCEL:
-  Localizar e substituir  github-readme-stats.vercel.app
-  pelo seu domínio, ex:   jorge-stats.vercel.app
+  ANTES DE COMMITAR, PREENCHA:
+  1. seu-email@exemplo.com   → seu e-mail real
+  2. NOME-DO-REPO-1 / 2      → nomes reais dos seus repositórios
+     (exatamente como aparecem na URL do GitHub)
 ═══════════════════════════════════════════════════════════════
 -->
 
@@ -103,42 +104,22 @@ public class JorgeFigueredo {
 
 ## `>` projetos em destaque
 
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| **[nome-do-projeto](https://github.com/Jorgefigueredoo/nome-do-projeto)** | API REST com autenticação JWT e login social via Google. | `Java` `Spring Boot` `MySQL` |
-| **[nome-do-projeto-2](https://github.com/Jorgefigueredoo/nome-do-projeto-2)** | Interface web consumindo a API, com rotas protegidas. | `React` `JavaScript` |
-| **[nome-do-projeto-3](https://github.com/Jorgefigueredoo/nome-do-projeto-3)** | O que resolve, em uma linha. | `Docker` `Spring Boot` |
-
-<!--
-  CARDS VISUAIS DE PROJETO — descomente SÓ depois de:
-  1. Trocar NOME-DO-REPO pelos nomes reais dos repositórios
-  2. Ter hospedado sua própria instância (senão quebra)
-
 <p align="center">
   <a href="https://github.com/Jorgefigueredoo/NOME-DO-REPO-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Projeto 1"/>
+    <img width="49%" src="https://github-readme-stats-one-xi-83.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-1&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=c9d1d9" alt="Projeto 1"/>
   </a>
   <a href="https://github.com/Jorgefigueredoo/NOME-DO-REPO-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Projeto 2"/>
+    <img width="49%" src="https://github-readme-stats-one-xi-83.vercel.app/api/pin/?username=Jorgefigueredoo&repo=NOME-DO-REPO-2&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=c9d1d9" alt="Projeto 2"/>
   </a>
 </p>
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6DB33F&height=3&section=header"/>
 
 ## `>` métricas
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jorgefigueredoo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=c9d1d9&cache_seconds=86400" alt="Estatísticas do GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefigueredoo&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=c9d1d9&cache_seconds=86400" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jorgefigueredoo&bg_color=0d1117&color=c9d1d9&line=1F6FEB&point=6DB33F&area=true&hide_border=true" alt="Gráfico de atividade"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Jorgefigueredoo/Jorgefigueredoo/output/snake.svg" alt="Cobrinha comendo as contribuições"/>
+  <img width="49%" src="https://github-readme-stats-one-xi-83.vercel.app/api?username=Jorgefigueredoo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=c9d1d9" alt="Estatísticas do GitHub"/>
+  <img width="49%" src="https://github-readme-stats-one-xi-83.vercel.app/api/top-langs/?username=Jorgefigueredoo&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=1F6FEB&text_color=c9d1d9" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
